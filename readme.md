@@ -87,6 +87,7 @@ POST /api/alerts/{id}/resolve - Resolve alerts
 GET  /api/health            - System health check
 ```
 ## File Structure
+```
 weather-monitoring/
 ├── backend/
 │   ├── __init__.py
